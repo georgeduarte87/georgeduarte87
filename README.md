@@ -37,40 +37,40 @@ Atuo na área de TI desde 2011, trabalhando em projetos de ecommerce de pequenas
 
 #### EXPERIÊNCIAS PROFISSIONAIS:
 
-**Empresa:** Warren Brasil.
-**Período:** 01/2021 - 12/2021.
-**Cargo:** Desenvolvedor Asp.Net Framework/Core Júnior
-**Função:** Atuei junto a tribo Investment Platforms (responsável pela experiência dos clientes e parceiros nos aplicativos e pela web) e  próximo ao time de Suporte N3, debugando aplicações, realizando mapeamento de incidentes e correlacionando problemas encontrados com falhas na implementação, resolução de pequenos incidentes, programação em par com desenvolvedores mais experientes para identificação e correção de casos mais complicados. Atuação em projeto monolito, com aplicações em ASP.NET MVC e API Fulframework e APIs em Asp Net Core desmembradas deste monolito.
-**Período:** 01/2019 - 12/2020.
-**Cargo:** Analista de Qualidade Pleno (01/2019 - 01/2020)  / Sênior (02/2020 - 12/2020).
-**Função:** Executar manualmente testes funcionais web e mobile, criar novos cenários e auxiliar no processo de qualidade da empresa.
+**Empresa:** Warren Brasil.   
+**Período:** 01/2021 - 12/2021.   
+**Cargo:** Desenvolvedor Asp.Net Framework/Core Júnior.   
+**Função:** Atuei junto a tribo Investment Platforms (responsável pela experiência dos clientes e parceiros nos aplicativos e pela web) e  próximo ao time de Suporte N3, debugando aplicações, realizando mapeamento de incidentes e correlacionando problemas encontrados com falhas na implementação, resolução de pequenos incidentes, programação em par com desenvolvedores mais experientes para identificação e correção de casos mais complicados. Atuação em projeto monolito, com aplicações em ASP.NET MVC e API Fulframework e APIs em Asp Net Core desmembradas deste monolito.   
+**Período:** 01/2019 - 12/2020.   
+**Cargo:** Analista de Qualidade Pleno (01/2019 - 01/2020)  / Sênior (02/2020 - 12/2020).   
+**Função:** Executar manualmente testes funcionais web e mobile, criar novos cenários e auxiliar no processo de qualidade da empresa.   
 
-**Empresa:** CWI Software. 
-**Período:** 11/2015 - 12/2018.
-**Cargo:** Testador de Software / Automatizador de Testes / Analista de Qualidade.
-**Função:** Executar manualmente testes funcionais web e mobile, criar novos cenários, realizar manutenção nos testes legados e gerar relatórios e métricas de qualidade.
+**Empresa:** CWI Software.    
+**Período:** 11/2015 - 12/2018.   
+**Cargo:** Testador de Software / Automatizador de Testes / Analista de Qualidade.   
+**Função:** Executar manualmente testes funcionais web e mobile, criar novos cenários, realizar manutenção nos testes legados e gerar relatórios e métricas de qualidade.   
 
-**Empresa:** VNDA - Tecnologia de Ecommerce.
-**Período:** 05/2015 - 10/2015.
-**Cargo:** Desenvolvedor de front-end.
-**Função:** Codificação de interfaces para lojas virtuais em HTML, CSS, JS e Liquid.
+**Empresa:** VNDA - Tecnologia de Ecommerce.   
+**Período:** 05/2015 - 10/2015.   
+**Cargo:** Desenvolvedor de front-end.   
+**Função:** Codificação de interfaces para lojas virtuais em HTML, CSS, JS e Liquid.   
 
-**Empresa:** Moovin - Plataforma de Ecommerce.
-**Período:** 11/2014 - 05/2015.
-**Cargo:** Desenvolvedor front-end.
-**Função:** Codificação de interfaces para lojas virtuais em HTML, CSS, JS e PHP, Mysql, Linux.
+**Empresa:** Moovin - Plataforma de Ecommerce.   
+**Período:** 11/2014 - 05/2015.   
+**Cargo:** Desenvolvedor front-end.   
+**Função:** Codificação de interfaces para lojas virtuais em HTML, CSS, JS e PHP, Mysql, Linux.   
 
-**Empresa:** EZ Commerce.
-**Período:** 08/2013 - 03/2014.
-**Cargo:** Desenvolvedor front-end.
-**Função:** Codificação de interfaces para lojas virtuais em HTML, CSS, JS e ASP.
+**Empresa:** EZ Commerce.   
+**Período:** 08/2013 - 03/2014.   
+**Cargo:** Desenvolvedor front-end.   
+**Função:** Codificação de interfaces para lojas virtuais em HTML, CSS, JS e ASP.   
 
-**Empresa:** Ecommerce Group.
-**Período:** 06/2012 - 06/2013.
-**Cargo:** Desenvolvedor front-end.
-**Função:** Codificação de interfaces para lojas virtuais Magento em HTML, CSS, JS e PHP, Mysql, Apache, Linux.
+**Empresa:** Ecommerce Group.   
+**Período:** 06/2012 - 06/2013.   
+**Cargo:** Desenvolvedor front-end.   
+**Função:** Codificação de interfaces para lojas virtuais Magento em HTML, CSS, JS e PHP, Mysql, Apache, Linux.   
 
-**Empresa:** N49.
-**Período:** 07/2011 - 05/2012.
-**Cargo:** Desenvolvedor front-end.
-**Função:** Codificação de interfaces para lojas virtuais Magento em HTML, CSS, JS e PHP, Mysql, Apache, Linux.
+**Empresa:** N49.   
+**Período:** 07/2011 - 05/2012.   
+**Cargo:** Desenvolvedor front-end.   
+**Função:** Codificação de interfaces para lojas virtuais Magento em HTML, CSS, JS e PHP, Mysql, Apache, Linux.   
