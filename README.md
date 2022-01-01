@@ -1,22 +1,14 @@
 ## George Duarte
 
----
-
 #### APRESENTAÇÃO:
 Atuo na área de TI desde 2011, trabalhando em projetos de ecommerce de pequenas e grandes marcas, financeiras em uma corretora de valores. Tendo experiência de 4 como front-end (2011 - 2015),  2 como testador (2015-2017),  3 como analista de testes pleno/sênior (2017-2020) e atualmente migrei para área de desenvolvimento back-end ASP.NET Core.
-
----
 
 #### OBJETIVO PROFISSIONAL:
 - Atuar como desenvolvedor back-and Asp.Net Core Júnior.
 
----
-
 #### FORMAÇÃO ACADÊMICA:
 - Técnico em Informática - Alcides Maya (2010 - 2011);
 - Graduação: Filosofia - Licenciatura - IPA (2006 - 2009);
-
----
 
 #### FORMAÇÃO COMPLEMENTAR:
 - Dominando o ASP.NET MVC Core - 21:00 Horas - Desenvolvedor.io - 2021
@@ -42,8 +34,6 @@ Atuo na área de TI desde 2011, trabalhando em projetos de ecommerce de pequenas
 - Planejamento e Execução de Testes de Software - 20:00 Horas TargetTrust - 2015
 - Curso de Teste de Software para Equipes Ágeis - 20:00 Horas - TargetTrust - 2015
 - Ferramentas para Automação de Teste de Software - 20:00 Horas TargetTrust - 2015
-
----
 
 #### EXPERIÊNCIAS PROFISSIONAIS:
 
